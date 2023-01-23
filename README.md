@@ -7,7 +7,7 @@ Cypress version- 12.3.0
 Node JS-Version- 18.13.0
 
 # Steps
-1.Clone  https://github.com/sharanya-ramesh/edume
+* Clone  https://github.com/sharanya-ramesh/edume
 2.Navigate to /edu_Automation inside the cloned repo.
 3.Install dependencies by running - npm install
 4.Navigate to  ./node_modules/.bin/cypress open (You will now see Cypress-runner launching in the background).
